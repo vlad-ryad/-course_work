@@ -1,0 +1,69 @@
+.fix-margin {
+    margin-top: 50px;
+}
+
+#resume h1 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: 'Open Sans Semibold';
+}
+
+.about-h1 {
+    font-size: 30px;
+}
+
+.text-about-fix {
+    font-size: 20px;
+}
+
+#resume h1 span {
+    border-bottom: 3px solid #1D809F;
+    padding-bottom: 6px;
+    font-family: 'Open Sans Semibold';
+}
+
+.fix-h1 hr {
+    border-bottom: 3px solid #1D809F;
+    padding-bottom: 6px;
+}
+
+.about-h3 {
+    font-size: 27px;
+}
+
+.info {
+    font-size: 18px;
+    color: #969ea5;
+    margin-bottom: 18px;
+    margin-top: 9px;
+    font-family: 'Open Sans Semibold';
+}
+
+#resume .info span {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+#resume .date {
+    font-size: 16px;
+    margin-top: 6px;
+    font-family: 'Open Sans Regular';
+}
+
+#resume p {
+    font-size: 17.8px;
+}
+
+.name button {
+    width: 190px;
+    font-family: 'Open Sans Semibold';
+    font-size: 22px;
+    border-radius: 15px;
+    border: 1px solid #1D809F;
+    text-align: center;
+    background-color: #1D809F;
+}
+
+.fa-download {
+    padding: 10px;
+}
